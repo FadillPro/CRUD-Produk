@@ -1,5 +1,5 @@
 .env
-/app/Http/Controllers/
-/app/Models/
-/routes
-/resources/views
+app/Http/Controllers/
+app/Models/
+routes
+resources/views
